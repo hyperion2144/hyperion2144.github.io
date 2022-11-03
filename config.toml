@@ -25,25 +25,20 @@ hasCJKLanguage = true
     url = "/posts"
     weight = 2
   [[menu.main]]
-    identifier = "/categories"
-    name = "🗂️分类"
-    url = "/categories"
-    weight = 3
-  [[menu.main]]
-    identifier = "/archives"
+    identifier = "/topics"
     name = "📅归档"
-    url = "/archives"
-    weight = 4
+    url = "/topics"
+    weight = 3
   [[menu.main]]
     identifier = "/about"
     name = "🧸关于"
     url = "/about"
-    weight = 5
+    weight = 4
   [[menu.main]]
     identifier = "/link"
     name = "🔗相关链接"
     url = "/link"
-    weight = 6
+    weight = 5
   
   # 底部社交图标
   [[menu.social]]
@@ -90,3 +85,8 @@ hasCJKLanguage = true
     autoplay = false
     loop = false
     mutex = true
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+topic = "topics"
