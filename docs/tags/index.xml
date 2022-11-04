@@ -7,6 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>2840956925@qq.com (不信此心尤梗梗)</managingEditor>
-    <webMaster>2840956925@qq.com (不信此心尤梗梗)</webMaster><atom:link href="https://hyperion2144.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>2840956925@qq.com (不信此心尤梗梗)</webMaster>
+    <lastBuildDate>Fri, 04 Nov 2022 14:17:31 +0800</lastBuildDate><atom:link href="https://hyperion2144.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>memcache</title>
+      <link>https://hyperion2144.github.io/tags/memcache/</link>
+      <pubDate>Fri, 04 Nov 2022 14:17:31 +0800</pubDate>
+      <author>2840956925@qq.com (不信此心尤梗梗)</author>
+      <guid>https://hyperion2144.github.io/tags/memcache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://hyperion2144.github.io/tags/redis/</link>
+      <pubDate>Fri, 04 Nov 2022 14:17:31 +0800</pubDate>
+      <author>2840956925@qq.com (不信此心尤梗梗)</author>
+      <guid>https://hyperion2144.github.io/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis cluster</title>
+      <link>https://hyperion2144.github.io/tags/redis-cluster/</link>
+      <pubDate>Fri, 04 Nov 2022 14:17:31 +0800</pubDate>
+      <author>2840956925@qq.com (不信此心尤梗梗)</author>
+      <guid>https://hyperion2144.github.io/tags/redis-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>缓存穿透</title>
+      <link>https://hyperion2144.github.io/tags/%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F/</link>
+      <pubDate>Fri, 04 Nov 2022 14:17:31 +0800</pubDate>
+      <author>2840956925@qq.com (不信此心尤梗梗)</author>
+      <guid>https://hyperion2144.github.io/tags/%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>热点缓存</title>
+      <link>https://hyperion2144.github.io/tags/%E7%83%AD%E7%82%B9%E7%BC%93%E5%AD%98/</link>
+      <pubDate>Fri, 04 Nov 2022 14:17:31 +0800</pubDate>
+      <author>2840956925@qq.com (不信此心尤梗梗)</author>
+      <guid>https://hyperion2144.github.io/tags/%E7%83%AD%E7%82%B9%E7%BC%93%E5%AD%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一致性hash</title>
+      <link>https://hyperion2144.github.io/tags/%E4%B8%80%E8%87%B4%E6%80%A7hash/</link>
+      <pubDate>Fri, 04 Nov 2022 14:17:31 +0800</pubDate>
+      <author>2840956925@qq.com (不信此心尤梗梗)</author>
+      <guid>https://hyperion2144.github.io/tags/%E4%B8%80%E8%87%B4%E6%80%A7hash/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

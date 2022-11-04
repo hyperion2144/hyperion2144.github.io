@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 不信此心尤梗梗</title>
+    <link>https://hyperion2144.github.io/posts/</link>
+    <description>Recent content in Posts on 不信此心尤梗梗</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>2840956925@qq.com (不信此心尤梗梗)</managingEditor>
+    <webMaster>2840956925@qq.com (不信此心尤梗梗)</webMaster>
+    <lastBuildDate>Fri, 04 Nov 2022 14:17:31 +0800</lastBuildDate><atom:link href="https://hyperion2144.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>分布式缓存——毛剑Go训练营回顾</title>
+      <link>https://hyperion2144.github.io/posts/202211041417/</link>
+      <pubDate>Fri, 04 Nov 2022 14:17:31 +0800</pubDate>
+      <author>2840956925@qq.com (不信此心尤梗梗)</author>
+      <guid>https://hyperion2144.github.io/posts/202211041417/</guid>
+      <description>缓存选型 memcache memcache提供简单的kv cache存储，value大小不超过1mb。memcache通常作为大文本或者简单的kv结构使用。 m</description>
+    </item>
+    
+  </channel>
+</rss>
